@@ -14,7 +14,7 @@
       
   </td>
     <td>
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Awais914&theme=highcontrast&hide_border=true" alt="Awais914" />
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=devawais98&theme=highcontrast&hide_border=true" alt="devawais98" />
     </td>
     <td >
       <img alt="github actions" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/octocat/gangnamtocat.png" width="200" /> 
